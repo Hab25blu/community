@@ -1,6 +1,6 @@
 # discussion
 
-Discussions related to course content will be held in this repository's [Issues](/issues).
+Discussions related to course content will be held in this repository's [Issues](https://github.com/STA518-Spring20/discussion/issues).
 Students are welcome and encouraged to post an issue here.
 To start a discussion thread, create a new issue.
 
@@ -11,7 +11,7 @@ Examples of uses for this area are:
 - Other types of computational problems
 
 As Issues get resolved, they will be closed.
-So don't forget to look in the [closed Issues](/issues?q=is%3Aissue+is%3Aclosed) before posting a new one.
+So don't forget to look in the [closed Issues](https://github.com/STA518-Spring20/discussion/issues?q=is%3Aissue+is%3Aclosed) before posting a new one.
 You can use the "Search" feature on this repository to find topics.
 
 ## GitHub Tags
